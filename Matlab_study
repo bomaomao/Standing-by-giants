@@ -1,0 +1,15 @@
+Matlab
+1.对角矩阵diag（v,1）
+2.显示字符：disp（'text,string'）
+
+
+Math toolbox
+1.工具箱
+2.Computation Mathmatics in Symbolic Math Toolbox:
+①syms与sym区别：函数sym只能用于pi的显示；用于exp时会出错【比如符号变量涉及的个数比较少，但是使用频率比较高，那么就是使用syms 
+但是如果个数多，但是使用频率比较少 则使用sym】
+②diff（A，a,b）表示差分或求导；A是矩阵，a=1表示一阶差分；a=2表示二阶差分；b=1表示行差分；b=2表示列差分
+说明链接：https://blog.csdn.net/u013018721/article/details/37766187
+③1031269322@qq.com
+shenbo14789632
+bobobobo
